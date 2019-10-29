@@ -19,7 +19,7 @@ apply plugin: 'io.spring.dependency-management'
 
 group = 'ee.energia'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = 8
+sourceCompatibility = 11
 
 repositories {
 	mavenCentral()
